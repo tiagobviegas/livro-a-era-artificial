@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Tahoma', sans-serif;
+  background-color: #F5F5F5;
+  text-align: center;
+}
+
+.container {
+  background-color: #F5F5F5;
+}
+
+.sessao-1 {
+  color: #000000;
+  padding: 50px;
+}
+
+.capa {
+  width: 190px;
+}
+
+#titulo {
+  font-size: 32px;
+}
+
+.subtitulo {
+  font-size: 24px;
+}
+
+.resenha {
+  font-size: 16px;
+  width: 930px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.capa {
+  margin: 20px;
+}
+
+.line {
+  background-color: #D5D5D5;
+  height: 1px;
+  width: 100%;
+}
+
+.btn-comprar {
+  background-color: #49B970;
+  color: #F5F5F5;
+  font-size: 14px;
+  padding: 10px 30px;
+  border-radius: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
