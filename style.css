@@ -2,47 +2,42 @@
   margin: 0;
   padding: 0;
   font-family: 'Tahoma', sans-serif;
-  background-color: #F5F5F5;
 }
 
-.container {
-  background-color: #F5F5F5;
+body {
   text-align: center;
 }
 
-.sessao-1 {
+div {
   color: #000000;
   padding: 50px;
-  width: 930px;
   border-bottom: 1px solid #D5D5D5;
 }
 
-.capa {
-  width: 190px;
+#sessao-1 {
+  margin-top: 0;
 }
 
-#titulo {
+img {
+  width: 190px;
+  padding: 15px;
+}
+
+h1 {
   font-size: 32px;
 }
 
-.subtitulo-principal {
+h2 {
   font-size: 24px;
 }
 
-.resenha {
+p {
   font-size: 16px;
+  margin: 15px auto 30px auto;
   width: 930px;
-  margin-top: 15px;
-  margin-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
-.capa {
-  margin: 20px;
-}
-
-.btn-comprar {
+a {
   background-color: #49B970;
   color: #F5F5F5;
   font-size: 14px;
@@ -52,13 +47,7 @@
   text-decoration: none;
 }
 
-.sessao-2 {
-  padding: 50px;
-  width: 930px;
-  border-bottom: 1px solid #D5D5D5
-}
-
-.subtitulo {
+h3 {
   font-size: 18px;
 }
 
@@ -66,45 +55,6 @@ span {
   font-weight: bold;
 }
 
-.texto-historia {
-  font-size: 16px;
-  padding-top: 15px;
-  padding-right: auto;
-  padding-bottom: 30px;
-  padding-left: auto;
-}
-
-.sessao-3 {
-  padding: 50px;
-  width: 930px;
-  border-bottom: 1px solid #D5D5D5;
-}
-
-.img-autor {
-  width: 190px;
-  padding: 15px;
-}
-
-.texto-autor {
-  font-size: 16px;
-  padding-right: auto;
-  padding-bottom: 30px;
-  padding-left: auto;
-}
-
-.sessao-4 {
-  padding: 50px;
-  width: 930px;
-}
-
-.texto-comprar {
-  font-size: 16px;
-  padding-top: 15px;
-  padding-right: auto;
-  padding-bottom: 30px;
-  padding-left: auto;
-}
-
-.paragrafo-destaque {
+#destaque {
   font-weight: bold;
 }
