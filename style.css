@@ -3,18 +3,18 @@
   padding: 0;
   font-family: 'Tahoma', sans-serif;
   background-color: #F5F5F5;
-  text-align: center;
 }
 
 .container {
   background-color: #F5F5F5;
+  text-align: center;
 }
 
 .sessao-1 {
   color: #000000;
   padding: 50px;
   width: 930px;
-  border-bottom: 1px solid #D5D5D5
+  border-bottom: 1px solid #D5D5D5;
 }
 
 .capa {
@@ -40,12 +40,6 @@
 
 .capa {
   margin: 20px;
-}
-
-.line {
-  background-color: #D5D5D5;
-  height: 1px;
-  width: 100%;
 }
 
 .btn-comprar {
@@ -83,6 +77,7 @@ span {
 .sessao-3 {
   padding: 50px;
   width: 930px;
+  border-bottom: 1px solid #D5D5D5;
 }
 
 .img-autor {
@@ -95,5 +90,21 @@ span {
   padding-right: auto;
   padding-bottom: 30px;
   padding-left: auto;
-  border-bottom: 1px solid #D5D5D5;
+}
+
+.sessao-4 {
+  padding: 50px;
+  width: 930px;
+}
+
+.texto-comprar {
+  font-size: 16px;
+  padding-top: 15px;
+  padding-right: auto;
+  padding-bottom: 30px;
+  padding-left: auto;
+}
+
+.paragrafo-destaque {
+  font-weight: bold;
 }
