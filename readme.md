@@ -12,11 +12,11 @@ Project dedicated to make use of CSS on various HTML tags to exercise alignment,
 - [X] Sessão 2 - Subtítulo e informações sobre o sentimento do leitor ao ler o livro.
 - [X] Sessão 3 - Subtítulo, imagem e informações sobre o autor e suas origens.
 - [X] Sessão 4 - Subtitulo, um texto reflexivo sobre o tema e link para compra. 
-- [ ] Projeto Finalizado!
+- [X] Projeto Finalizado!
 
 ## Work Progress
 - [X] Section 1 - Title, image, a book brief and a external buying hyperlink.
 - [X] Section 2 - Subtitle and a text about the reader's emotions on reading the book.
 - [X] section 3 - Subtitle, image and author info. 
 - [X] Section 4 - Subtitle, a reflective text about the books subject and tickets and a external buying hyperlink.
-- [ ] Project completed!
+- [X] Project completed!
