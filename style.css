@@ -13,6 +13,7 @@
 .sessao-1 {
   color: #000000;
   padding: 50px;
+  border-bottom: 1px solid #D5D5D5
 }
 
 .capa {
@@ -23,7 +24,7 @@
   font-size: 32px;
 }
 
-.subtitulo {
+.subtitulo-principal {
   font-size: 24px;
 }
 
@@ -54,4 +55,24 @@
   border-radius: 20px;
   font-weight: bold;
   text-decoration: none;
+}
+
+.sessao-2 {
+  padding: 50px;
+}
+
+.subtitulo {
+  font-size: 18px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.texto-historia {
+  font-size: 16px;
+  padding-top: 15px;
+  padding-right: auto;
+  padding-bottom: 30px;
+  padding-left: auto;
 }
